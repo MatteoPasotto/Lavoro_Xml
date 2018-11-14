@@ -1,6 +1,6 @@
 <html>
  <head>
-  <title>Esempio1</title>
+  <title>Esempio2</title>
  </head>
  <body>
  <i>riga 1 in HTML</i> <br>
